@@ -1,0 +1,384 @@
+{
+    "questions": [
+        {
+            
+            "questionText": "If the brake pedal of a vehicle feels soft or spongy when applied, what does this mean?",
+            "answers": [
+                {"answer": "A fault in the brake fluid system.", "correct": true, "selected": false},
+                {"answer": "Worn brake-pads.", "correct": false, "selected": false},
+                {"answer": "Worn handbrake cable.", "correct": false, "selected": false}
+            ]
+        },
+        {
+            
+            "questionText": "How would a driver know if the brake fluid in their vehicle is low?",
+            "answers": [
+                {"answer": "Take longer than usual to release.", "correct": false, "selected": false},
+                {"answer": "The brakes feel spongy and soft.", "correct": true, "selected": false},
+                {"answer": "The brakes are unusally sharp.", "correct": false, "selected": false}
+            ]
+        },
+        {
+           
+            "questionText": "If a driver applies the foot brake and hears a scraping noise, what is the most likely cause?",
+            "answers": [
+                {"answer": "The brake-pads are wet.", "correct": false, "selected": false},
+                {"answer": "Too much oil on the brakes.", "correct": false, "selected": false},
+                {"answer": "Brake linings or pads are worn.", "correct": true, "selected": false}
+            ]
+        }
+		,
+        {
+            
+            "questionText": "What effect does automatic transmission have on engine braking power?",
+            "answers": [
+                {"answer": "It increases it.", "correct": false, "selected": false},
+                {"answer": "It reduces it.", "correct": true, "selected": false},
+                {"answer": "It has no effect.", "correct": false, "selected": false}
+            ]
+        },
+        {
+           
+            "questionText": "If the oil gauge shows little or no pressure, what could the problem be?",
+            "answers": [
+                {"answer": " The oil is too thin.", "correct": false, "selected": false},
+                {"answer": " The oil level is too high.", "correct": false, "selected": false},
+                {"answer": "The oil level is too low.", "correct": true, "selected": false}
+            ]
+        }
+		,
+        {
+            
+            "questionText": "What is the purpose of engine oil?",
+            "answers": [
+                {"answer": "lubricates steering components.", "correct": false, "selected": false},
+                {"answer": "lubricates engine components.", "correct": true, "selected": false},
+                {"answer": "lubricates the exhaust system.", "correct": false, "selected": false}
+            ]
+        },
+        {
+           
+            "questionText": "While driving, a driver notices a strong smell of fuel. What should they do?",
+            "answers": [
+                {"answer": "Drive at a reduced speed.", "correct": false, "selected": false},
+                {"answer": "Check the exhaust system.", "correct": false, "selected": false},
+                {"answer": "Stop where safe and investigate.", "correct": true, "selected": false}
+            ]
+        }
+		,
+        {
+            
+            "questionText": "When is it recommended to use coolant or antifreeze?",
+            "answers": [
+                {"answer": " Winter only.", "correct": false, "selected": false},
+                {"answer": " All year round.", "correct": true, "selected": false},
+                {"answer": " Summer only.", "correct": false, "selected": false}
+            ]
+        },
+        {
+           
+            "questionText": "What does the warning light and/or red zone on a fuel gauge mean?",
+            "answers": [
+                {"answer": "Overfilling.", "correct": false, "selected": false},
+                {"answer": "The presence of leaded fuel.", "correct": false, "selected": false},
+                {"answer": "Level of fuel in the tank is low.", "correct": true, "selected": false}
+            ]
+        }
+		,
+        {
+            
+            "questionText": "What happens if the vehicle has a flat battery?",
+            "answers": [
+                {"answer": "Battery will have to be replaced.", "correct": false, "selected": false},
+                {"answer": "The engine will not start.", "correct": true, "selected": false},
+                {"answer": "Smoke will rise from the vehicle.", "correct": false, "selected": false}
+            ]
+        },
+        {
+           
+            "questionText": "After changing a wheel on a vehicle, which of the following should be checked soon afterwards?",
+            "answers": [
+                {"answer": "The brake-pad clearance.", "correct": false, "selected": false},
+                {"answer": "Tyre tread depth.", "correct": false, "selected": false},
+                {"answer": "The wheel nuts.", "correct": true, "selected": false}
+            ]
+        }
+		,
+        {
+            
+            "questionText": "In general, how often should a driver check the tyre pressure of a vehicle?",
+            "answers": [
+                {"answer": "Annualy", "correct": false, "selected": false},
+                {"answer": "Regularly.", "correct": true, "selected": false},
+                {"answer": "Monthly", "correct": false, "selected": false}
+            ]
+        },
+        {
+           
+            "questionText": "A fault in what component would lead to uneven or excessive tyre wear?",
+            "answers": [
+                {"answer": "Engine", "correct": false, "selected": false},
+                {"answer": "Accelerator", "correct": false, "selected": false},
+                {"answer": "Suspension.", "correct": true, "selected": false}
+            ]
+        }
+		,
+        {
+            
+            "questionText": "What can be affected by driving on under-inflated tyres?",
+            "answers": [
+                {"answer": "The exhaust system.", "correct": false, "selected": false},
+                {"answer": "Fuel consumption.", "correct": true, "selected": false},
+                {"answer": "Oil pressure.", "correct": false, "selected": false}
+            ]
+        },
+        {
+           
+            "questionText": "When should tyre pressure be checked?",
+            "answers": [
+                {"answer": "When the vehicle is loaded.", "correct": false, "selected": false},
+                {"answer": "When the tyres are hot.", "correct": false, "selected": false},
+                {"answer": "When the tyres are cold.", "correct": true, "selected": false}
+            ]
+        }
+		,
+        {
+            
+            "questionText": "What effect does low tyre-pressure have on a vehicle?",
+            "answers": [
+                {"answer": "The brakes can overheat.", "correct": false, "selected": false},
+                {"answer": "Braking/cornering are impaired.", "correct": true, "selected": false},
+                {"answer": "Engine noise increases.", "correct": false, "selected": false}
+            ]
+        },
+        {
+           
+            "questionText": "What can cause a vehicle to skid?",
+            "answers": [
+                {"answer": "Low tyre pressure.", "correct": false, "selected": false},
+                {"answer": "Stopping the vehicle in third gear.", "correct": false, "selected": false},
+                {"answer": "Using harsh acceleration.", "correct": true, "selected": false}
+            ]
+        }
+		,
+        {
+            
+            "questionText": "At traffic lights a driver should take particular care for which road users coming up on the left?",
+            "answers": [
+                {"answer": "Vans", "correct": false, "selected": false},
+                {"answer": "Motorcyclists.", "correct": true, "selected": false},
+                {"answer": "Cars", "correct": false, "selected": false}
+            ]
+        },
+        {
+           
+            "questionText": "What should a driver do if the fuel system becomes air-locked?",
+            "answers": [
+                {"answer": "Drain the fuel filter.", "correct": false, "selected": false},
+                {"answer": "Loosen the fuel pump", "correct": false, "selected": false},
+                {"answer": "Bleed air out of the fuel system.", "correct": true, "selected": false}
+            ]
+        }
+		,
+        {
+            
+            "questionText": "When should a driver use the vehicle side lights?",
+            "answers": [
+                {"answer": "When driving in foggy conditions.", "correct": false, "selected": false},
+                {"answer": "When parking on an unlit road.", "correct": true, "selected": false},
+                {"answer": "When parking at all times.", "correct": false, "selected": false}
+            ]
+        },
+        {
+           
+            "questionText": "What is the minimum legal tread depth for tyres on cars?",
+            "answers": [
+                {"answer": "0.6 millimetres.", "correct": false, "selected": false},
+                {"answer": "1 millimetre.", "correct": false, "selected": false},
+                {"answer": "1.6 millimetres.", "correct": true, "selected": false}
+            ]
+        }
+		,
+        {
+            
+            "questionText": "In general, above what gross vehicle weight must be a trailer have brakes fitted?",
+            "answers": [
+                {"answer": "500kg.", "correct": false, "selected": false},
+                {"answer": "750kg.", "correct": true, "selected": false},
+                {"answer": "850kg.", "correct": false, "selected": false}
+            ]
+        },
+        {
+           
+            "questionText": "What problem is indicated when wipers suddenly cease to function?",
+            "answers": [
+                {"answer": "Wiperblades need to be replaced", "correct": false, "selected": false},
+                {"answer": "The alternator is faulty.", "correct": false, "selected": false},
+                {"answer": "A fuse is blown", "correct": true, "selected": false}
+            ]
+        }
+		,
+        {
+            
+            "questionText": "Which part of the vehicle must be maintained in good condition?",
+            "answers": [
+                {"answer": "Upholstery", "correct": false, "selected": false},
+                {"answer": "Headlights.", "correct": true, "selected": false},
+                {"answer": "Paintwork", "correct": false, "selected": false}
+            ]
+        },
+        {
+           
+            "questionText": "What does the load index of a tyre indicate?",
+            "answers": [
+                {"answer": "Maximum load of the vehicle.", "correct": false, "selected": false},
+                {"answer": "Maximum load per axle.", "correct": false, "selected": false},
+                {"answer": "Maximum load a tyre can carry.", "correct": true, "selected": false}
+            ]
+        }
+		,
+        {
+            
+            "questionText": "The handbrake generally works on which wheels?",
+            "answers": [
+                {"answer": "The front wheels.", "correct": false, "selected": false},
+                {"answer": "The rear wheels.", "correct": true, "selected": false},
+                {"answer": "All the wheels.", "correct": false, "selected": false}
+            ]
+        },
+        {
+           
+            "questionText": "According to the Pre-Crash Report, out of 867 fatal collisions, how many had alcohol as a contributory factor?",
+            "answers": [
+                {"answer": "201-250", "correct": false, "selected": false},
+                {"answer": "101-200", "correct": false, "selected": false},
+                {"answer": "251-350", "correct": true, "selected": false}
+            ]
+        }
+		,
+        {
+            
+            "questionText": "According to the Pre-Crash Report, how many passengers were killed in a collision where alcohol was a known factor?",
+            "answers": [
+                {"answer": "Less than 35", "correct": false, "selected": false},
+                {"answer": "71 – 90", "correct": true, "selected": false},
+                {"answer": "More than 91", "correct": false, "selected": false}
+            ]
+        },
+        {
+           
+            "questionText": "According to the Pre-Crash Report, in how many fatal collisions was alcohol a contributory factor?",
+            "answers": [
+                {"answer": "1 out of 10", "correct": false, "selected": false},
+                {"answer": "6 out of 10", "correct": false, "selected": false},
+                {"answer": "4 out of 10", "correct": true, "selected": false}
+            ]
+        }
+		,
+        {
+            
+            "questionText": "What is the maximum permissible speed of a car towing a trailer on a motorway?",
+            "answers": [
+                {"answer": "100 km/h.", "correct": false, "selected": false},
+                {"answer": "80 km/h.", "correct": true, "selected": false},
+                {"answer": "60 km/h.", "correct": false, "selected": false}
+            ]
+        },
+        {
+           
+            "questionText": "What traffic may drive along on a cycle lane accompanied by a continuous white line?",
+            "answers": [
+                {"answer": "Buses and cyclists.", "correct": false, "selected": false},
+                {"answer": "Cyclists and taxis.", "correct": false, "selected": false},
+                {"answer": "Cyclists and motorised wheelchairs.", "correct": true, "selected": false}
+            ]
+        }
+		,
+        {
+            
+            "questionText": "What lights indicate a zebra crossing?",
+            "answers": [
+                {"answer": "Continuously lit red beacons.", "correct": false, "selected": false},
+                {"answer": "Flashing amber beacons.", "correct": true, "selected": false},
+                {"answer": "Flashing red beacons.", "correct": false, "selected": false}
+            ]
+        },
+        {
+           
+            "questionText": "What should a driver do when being overtaken by another vehicle?",
+            "answers": [
+                {"answer": "Move to the left.", "correct": false, "selected": false},
+                {"answer": "Move to the right.", "correct": false, "selected": false},
+                {"answer": "Continue at the same pace.", "correct": true, "selected": false}
+            ]
+        }
+		,
+        {
+            
+            "questionText": "When should a driver use the vehicle’s rear view mirror?",
+            "answers": [
+                {"answer": "Changing gears", "correct": false, "selected": false},
+                {"answer": "Before changing direction", "correct": true, "selected": false},
+                {"answer": "Reversing only.", "correct": false, "selected": false}
+            ]
+        },
+        {
+           
+            "questionText": "What should a driver do if they see a truck reversing into a side entrance on the left-hand side of the road ahead?",
+            "answers": [
+                {"answer": "Try to drive past it.", "correct": false, "selected": false},
+                {"answer": "Drive up to the truck and stop.", "correct": false, "selected": false},
+                {"answer": "wait until your way is clear.", "correct": true, "selected": false}
+            ]
+        }
+		,
+        {
+            
+            "questionText": "A driver who is about to undertake a journey is upset or angry. What should they do?",
+            "answers": [
+                {"answer": "Try to relax as they drive along.", "correct": false, "selected": false},
+                {"answer": "Not drive until they are calm.", "correct": true, "selected": false},
+                {"answer": "Drive in a low gear for a period.", "correct": false, "selected": false}
+            ]
+        },
+        {
+           
+            "questionText": "What effect does drinking alcohol have on a driver?",
+            "answers": [
+                {"answer": "It improves co-ordination.", "correct": false, "selected": false},
+                {"answer": "It increases awareness.", "correct": false, "selected": false},
+                {"answer": "It makes the driver drowsy.", "correct": true, "selected": false}
+            ]
+        }
+		,
+        {
+            
+            "questionText": "What could happen if a driver cuts in too soon when overtaking another vehicle?",
+            "answers": [
+                {"answer": "Your engine could lose power.", "correct": false, "selected": false},
+                {"answer": "Both vehicles could collide.", "correct": true, "selected": false},
+                {"answer": "The steering could lock.", "correct": false, "selected": false}
+            ]
+        },
+        {
+           
+            "questionText": "What clearance should drivers normally allow for parked vehicles?",
+            "answers": [
+                {"answer": "The width of the mirror.", "correct": false, "selected": false},
+                {"answer": "Six meters.", "correct": false, "selected": false},
+                {"answer": "A door width.", "correct": true, "selected": false}
+            ]
+        }
+		,
+        {
+            
+            "questionText": "What should a driver do if there is black ice on the road?",
+            "answers": [
+                {"answer": "Drive after rain in darkness.", "correct": false, "selected": false},
+                {"answer": "Avoid harsh braking.", "correct": true, "selected": false},
+                {"answer": "Drive after rain.", "correct": false, "selected": false}
+            ]
+        }
+ 
+    ]
+}
