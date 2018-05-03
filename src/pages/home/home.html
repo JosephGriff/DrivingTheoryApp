@@ -1,20 +1,21 @@
-<ion-content>
+<ion-content padding class="master">
  
     <ion-slides #slides>
  
         <ion-slide class="start-slide">
-			<h2>Driving Theory</h2>
-			<p>Answer 35 or more correctly to pass!</p>
-            <button ion-button color="primary" (click)="nextSlide()">Start!</button><br>
-			<button (click)="ReadInfo()" ion-button color="primary">Revise Questions</button>
+			<h2 id="standout">Driving Theory</h2>
+			<p id="anotherone">Answer 35 or more correctly to pass!</p>
+            <button ion-button full color="primary" (click)="nextSlide()">Start!</button><br>
+			<button (click)="ReadInfo()" ion-button full color="primary">Revise Questions</button>
         </ion-slide>
  
+ <!--ngFor creates a slide for every question-->
         <ion-slide *ngFor="let question of questions; let i = index;">
- 
+			<!--Starts question at one and after every slide adds 1 to the question number!-->
             <h3>Question {{i+1}}</h3>
  
            
- 
+ <!--Prints out question text!-->
             <h3>{{question.questionText}}</h3>
  
             <ion-list no-lines radio-group>
@@ -22,6 +23,8 @@
                 <ion-item *ngFor="let answer of question.answers; let i = index;">
  
                     <ion-label>{{i+1}}. {{answer.answer}}</ion-label>
+
+ 					<!--this blocks you from selecting another answer then moves on and when the user restarts the quiz it disables the checked answers!-->
                     <ion-radio (click)="selectAnswer(answer, question)" [checked]="answer.selected" [disabled]="hasAnswered"></ion-radio>
  
                 </ion-item>
@@ -31,6 +34,8 @@
         </ion-slide>
  
         <ion-slide>
+
+ <!--Prints out final score of correct answers!-->
             <h2>Final Score: {{score}}</h2>
  
             <button (click)="restartQuiz()" ion-button full color="primary">Start Again</button>
